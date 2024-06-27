@@ -1,0 +1,21 @@
+{
+  "type": "service_account",
+  "project_id": "nprd-ensono-core-services277f8",
+  "private_key_id": "0f5a3875d5c9f29a383746bc9133b0c4c13e147b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKETxIgwJwShMm\ne0BYHbXRvrw9cJIAfPwRo0m7Yn5QyGunu8YtyXpR42jJWRXXD6AEYe4cMioBcout\nCKzfzXFJQClZgmrf5MRDoKtkpLXP0EkTEdzjlT6fwkSR25WiO4Bi4yyvZTWnZ+lx\niAxce07uEi2N4zRWEsX9ipoipxsmzCj/YavghzXCWZGY1QzxvgnR5Rw2a6SlynCd\n7uXfideU0jJRqM4V2q83lt6EOpzmvVjgMrgmTtnoMWFYW+Oge+FOkrLerEeZhxAy\nGfNcF8UJlPsKuqLHR5lG50rluN9AHz575Nwr7TXfKBVf7loUYSR1p9uAP0Af3WIO\nDUraZThlAgMBAAECggEADNZfUFMEag+xW5nryqf+jQf+AQrrDP1jwpdvX9Mq0mUy\nk7TbVb2DAtCnWlgJdMDhH2N9A2JmJp05RaGzYUI1ztvKP2Md+OyZfHC+GsuCYnoU\nKRI9iIw1hDmibhV3fOz5+S5UwILgpP/2Gy3zwmyyD8VstU2IiGmyausYjkLet85B\nO5U7a7RP9WFNhd4cvjttXwRHQtBDNNh82fv4WAjaa4GsdSsTls1nx7+BA8vRz6gy\nOiVgsDb5bCCklm3KDJOh9Os4vEpuyuWy7loNVrB2IZONkqvkVON68uVRVN9lPuua\nhSU3xBSl9rrmjum5DmR+sEVSc5gg9nsvJYDAWD2ZEQKBgQDsmBIL+O78oekWMzVB\n4wN4IvC4Kem0PTxf+QKvfsZROaDzlDMvxHONAXS/girvP4oyDV9EqcxRoX7VhCcK\nkhP8Br62IG7AaibWQw9XwnAhHlZPQa0LjdHJ3W0mW3Wz88UZr02sRHPJB7RH6L3j\n4AMs/tQEa0wL9gXy00KipQuM1QKBgQDapC8QDZFt4oM1110ylUOSql6ykgg6MdIn\nOKxPDcrW2r+fQFRIV9QUs2m6/mHeGupB6ZhEIbi/vXUyMawGA/peDjCYbxPhw362\nkm4QdDUESj0j3OzhV+WXMO9gYR/3bmIj+WyrlEzKATbnazaM+lOkcUHdc2MFmhbz\nj4EiiMeFUQKBgQC/5rS0m0wVA6rQg+aNs3lr50NCzVQvCoA/A/WmrPhkh47CIxHF\ni92BoI22i/kRJ4OLB4efZO5Bw/DhdJhKHaQyBrKHfRT34uHvZmM6do6GflnZXVbj\niTuBNaXDt+lndbEIHUWuFbOoeiRDM0daXqeUxnjnwLPk+79lbu+chqwwpQKBgG+H\n5zYCJdhu/s29UZ5XBARSAkKHOckt1u0I/OTKvVkCd1NuRlAs9VOl/d5Um2noQu1i\nkrjWlt7Ab4MuUXk0GEhYZrOrnfHBfub1JU4haVYJ5MxhizicVNLeNI3unZbjaQ6+\n0o9n9A/rtK0yRL5/h6FP4PBtRur5opGV96K9MUIxAoGBAM9tsq0RvgLxHF74CRhX\nIczmbwqM0pWP+WijztLmIWPT+d2ytiyM/sXHaHnh/jkWecYfdIE1MPpfdo5iA4Ww\nrk5yyEHYYaZbA0AY4xlIfLcMM1RU68THqeIHW+C4MCGVUuE1CvWU5O5zmxNhZWOG\n/Tbn95auDly/kIlEj4vwMk7m\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-sa@nprd-ensono-core-services277f8.iam.gserviceaccount.com",
+  "client_id": "104201768100581365875",
+  "auth_uri": "
+https://accounts.google.com/o/oauth2/auth"
+,
+  "token_uri": "
+https://oauth2.googleapis.com/token"
+,
+  "auth_provider_x509_cert_url": "
+https://www.googleapis.com/oauth2/v1/certs"
+,
+  "client_x509_cert_url": "
+https://www.googleapis.com/robot/v1/metadata/x509/test-sa%40nprd-ensono-core-services277f8.iam.gserviceaccount.com"
+,
+  "universe_domain": "googleapis.com"
+}
